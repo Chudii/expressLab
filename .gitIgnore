@@ -1,2 +1,2 @@
-ndoe_modules
-.env
+node_modules
+dotenv
